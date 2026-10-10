@@ -1,0 +1,18 @@
+[submodule "extensions/JS-Slash-Runner"]
+	path = extensions/JS-Slash-Runner
+	url = https://github.com/N0VI028/JS-Slash-Runner.git
+[submodule "extensions/Extension-ReactTemplate"]
+	path = extensions/Extension-ReactTemplate
+	url = https://github.com/SillyTavern/Extension-ReactTemplate.git
+[submodule "extensions/Extension-PromptInspector"]
+	path = extensions/Extension-PromptInspector
+	url = https://github.com/SillyTavern/Extension-PromptInspector.git
+[submodule "extensions/st-stepped-thinking"]
+	path = extensions/st-stepped-thinking
+	url = https://github.com/cierru/st-stepped-thinking.git
+[submodule "extensions/SillyTavern-WorldInfo-Recommender"]
+	path = extensions/SillyTavern-WorldInfo-Recommender
+	url = https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender.git
+[submodule "extensions/SillyTavern-MCP-Client"]
+	path = extensions/SillyTavern-MCP-Client
+	url = https://github.com/bmen25124/SillyTavern-MCP-Client.git
