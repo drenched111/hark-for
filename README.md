@@ -48,3 +48,13 @@ Hark 为你挑的一批 SillyTavern 插件项目，按"值得读源码学什么"
 
 - 社区整理的总表：[Min3Mast3r4653/SillyTavern-Extensions-and-Themes](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes)
 - 官方插件全集：[github.com/SillyTavern](https://github.com/SillyTavern)（以 `Extension-` 开头的仓库）
+
+## 对照阅读（submodule）
+
+`extensions/` 下以 git submodule 方式挂了 6 个项目（指向原仓库，固定在当时的提交）：酒馆助手、ReactTemplate、PromptInspector、stepped-thinking、WorldInfo-Recommender、MCP-Client。
+
+```bash
+git clone --recursive https://github.com/drenched111/hark-for.git
+# 以后更新到上游最新：
+git submodule update --remote
+```
